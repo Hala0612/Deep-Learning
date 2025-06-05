@@ -11,7 +11,7 @@ This project was developed as part of a series of Computer Vision courses taught
 
 This repository contains the following Jupyter notebook:
 
-1. `Fruit_classification_Kaggle_Competition.ipynb`  
+`Fruit_classification_Kaggle_Competition.ipynb`  
  → Trains and evaluates a CNN model for multi-class fruit classification.
 
 
