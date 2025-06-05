@@ -46,7 +46,7 @@ Each class contains images taken under varied lighting and backgrounds, simulati
 
 Sample prediction results from the CNN model:
 
-![Sample Predictions](Deep-learning/Fruit_Classification/Images/Fruit_Classification_Predictions.png)
+![Sample Predictions](Images/Fruit_Classification_Predictions.png)
 
 ---
 
