@@ -35,7 +35,8 @@ Each class contains images taken under varied lighting and backgrounds, simulati
 
 ## Model Performance
 
-- Test Accuracy: **93.1%**, Leaderbord : 14
+- Test Accuracy: **93.1%**,
+- Leaderbord : **14**,   check [leaderboard ]([URL_DU_LEADERBOARD](https://www.kaggle.com/competitions/fruit-classification/leaderboard))
 - Model: Convolutional Neural Network (CNN) built with **PyTorch**
 
 
