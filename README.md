@@ -33,11 +33,21 @@ Each class contains images taken under varied lighting and backgrounds, simulati
 
 ---
 
+## Model Performance
+
+- Test Accuracy: **93.1%**, Leaderbord : 14
+- Model: Convolutional Neural Network (CNN) built with **PyTorch**
+
+
+---
+
 ## Visual Results
 
 Sample prediction results from the CNN model:
 
 ![Sample Predictions](images/Fruit_Classification_Predictions.png)
+
+---
 
 
 ##  Requirements
